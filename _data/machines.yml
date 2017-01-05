@@ -42,3 +42,12 @@ proto:
     sop: https://github.com/psu-epl/psu-epl.github.com/wiki/Lasercutter
     up: true
 
+  - name: FormLabs 2
+    img:
+    sop:
+    up: true
+    
+  - name: Ultimaker 3
+    img: 
+    sop: https://ultimaker.com/en/resources/23119-using-cura
+    up: true
